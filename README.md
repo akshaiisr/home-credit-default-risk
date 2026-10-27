@@ -28,7 +28,7 @@ Default rate is 8% (imbalanced).
 Streamlit link — (https://home-credit-default-risk-mqxeq9ckzgd3czqtbeys23.streamlit.app/)
 
 ## Demo Video
-[Video link — add after recording]
+[[Video link — add after recording]](https://drive.google.com/file/d/19iy3UKAZNq3EmK0O5NeGjhMD_2bXIQrQ/view?usp=drive_link)
 
 ## How to Run
 1. Install: `pip install -r requirements.txt`
